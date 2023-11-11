@@ -11,7 +11,7 @@ This code is prepared for MLGN.
 
 Running steps:
 
-1. Eurlex4K dataset is already in the 'data' folder, other datasets can be downloaded from http://manikvarma.org/downloads/XC/XMLRepository.html or decompress the datasets（data/EURLex-4k/..）.
+1. The Eurlex4K and AAPD datasets are already in the data, decompress the dataset （data/EURLex-4k/..）.
 
 2. Install the environment according to requirements.txt
 
